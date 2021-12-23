@@ -13,7 +13,7 @@ of the real-world applications like targeted advertisement, forensic science, vi
 - [face model](https://github.com/Bayunova28/Age_Gender_Detection/blob/master/opencv_face_detector_uint8.pb)
 
 ## Install Package
-Make sure you have opencv installed. If not install them using pip
+Make sure you have opencv installed. If not install it using pip
 ```
 pip install opencv-python
 ```
