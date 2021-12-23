@@ -1,4 +1,4 @@
-# Age & Gender Detection on Video Capture
+# Age & Gender Recognition using Video Capture
 <img src="https://github.com/Bayunova28/Age_Gender_Detection/blob/master/cfe4b28efb759bfd142851cc1f003d4f.jpg">
 
 Age and Gender Detection is a fundamental task in computer vision, which has recently attracted immense attention. It plays a very important role in an exceedingly wide selection 
