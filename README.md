@@ -1,8 +1,8 @@
 # Age & Gender Recognition 
-<img src="https://github.com/Bayunova28/Age_Gender_Detection/blob/master/cfe4b28efb759bfd142851cc1f003d4f.jpg">
+<img src="https://github.com/Bayunova28/Age_Gender_Detection/blob/master/cfe4b28efb759bfd142851cc1f003d4f.jpg" width="1100">
 
-Age and Gender Detection is a fundamental task in computer vision, which has recently attracted immense attention. It plays a very important role in an exceedingly wide selection 
-of the real-world applications like targeted advertisement, forensic science, visual surveillance, content-based searching, humancomputer interaction systems, etc.
+<p align="justify">Age and Gender Detection is a fundamental task in computer vision, which has recently attracted immense attention. It plays a very important role in an exceedingly wide selection 
+of the real-world applications like targeted advertisement, forensic science, visual surveillance, content-based searching, humancomputer interaction systems, etc.<p>
 
 ## Additional Files
 - [age deploy](https://github.com/Bayunova28/Age_Gender_Detection/blob/master/age_deploy.prototxt)
@@ -14,7 +14,7 @@ of the real-world applications like targeted advertisement, forensic science, vi
 
 ## Install Package
 Make sure you have opencv installed. If not install it using pip
-```
+```python
 pip install opencv-python
 ```
 
